@@ -15,7 +15,7 @@ The problem of tuning a large-scale OBFN is very similar to training a neural ne
 
 
 Project Team
-MSc-student                 :	Herminarto Nugroho
+MSc-student                 : Herminarto Nugroho
 MSc-Thesis Advisor          : Dr. Sander Wahls
 Daily Supervisor            : Laurens Bliek
 Chair Examining Committee   : Prof. Michel Verhaegen
