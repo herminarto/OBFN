@@ -1,0 +1,36 @@
+%
+% Introduction
+\chapter{Introduction} \label{chap::intro}
+
+Optical group delays are of great importance nowadays in optically-controlled \ac{PAA} system. \ac{PAA} system offers several advantages when compared to mechanically steered antennas, such as agile beam steering, relatively low maintenance cost, reduce drag force when applied in for instance vehicle and aircraft, and the possibility of supporting multiple antenna beams \citep{hansen2009phased}.
+
+A \ac{PAA} system consists of an array of multiple \ac{AE}, corresponding transmission and/or reception units, and a beamformer. \ac{AE} signal consist of a time-delayed version of some desired signals, possible time-delayed version of of some undesired signals (from different direction), and noise (sky noise and antenna noise). The values of these delays are different for each \ac{AE}, depends on the geometrical distribution of the \ac{AE} locations, and for sure the direction of the incoming/outcoming wave-front signals. The beamformer consists of a delay-and-combine network that equalizes the delay values of the desired signal, such that the desired signal adds up in phase and reinforced, whereas the undesired signal do not add up and hence suppressed \citep{Meijerink1}. It is desirable that the time-delays are tunable, in order to be able to alter the reception angle of the \ac{PAA}. 
+
+In this thesis, a seamlessly tunable optical beamformer concept proposed by \citet{meijerink2006phased} is used. It is based on coherent optical combining in an \ac{OBFN} using cascades of \ac{ORR} \citep{lenz2001optical,zhuang2005continuously} as tunable delay elements. With the structural enhancement (resonance) characteristic, the \ac{ORR} filters are able to generate a tunable group delay, which could be larger than the unit delay of the filter (the roundtrip time of the light). Thermal tuning mechanism is used in the filter, which is characterized by the high accuracy in the tuning process \citep{zhuang2005time}.
+
+A \ac{NLP} optimization is one of the methods used to determine the parameters of the \ac{ORR} thermal tuning mechanism. This method converts a desired delay value into a set of optimal parameters of the respective \ac{ORR}. The first step of this method is to derive the optimality criteria. There are three optimality criteria, which are delay, phase and power criterion. From that three algorithms, an \ac{NLP} solver is used to find the optimal solution. This method was proposed by \citet{Blokpoel}. However, that method uses normalized bandwidths and target delays, and assumed the group delay response to be symmetric which shows its lack of generality. It is not desirable since it will limit the application of the one particular setting for the general case. Therefore, a more general method is proposed.
+
+((((introduction about deep learning neural networks as an alternative solution))))
+
+Taking the aforementioned premises into consideration, the goal of the thesis can now be
+presented.
+
+\section{Goals of the Thesis}
+The main goal of the thesis is to provide a general method and algorithm for tuning the \ac{OBFN}, yielding better result without limitation on any binary tree \ac{OBFN} topology. This method will solve the basic problem the current tuning method (Non-linear Programming Optimization) has, which is designed to tune the \ac{OBFN} for a specific topology. This boils down to answer one question which is the fundamental
+problem of this thesis:
+
+\textit{``Is there a method that allows us to tune the OBFN for a general (in terms of topology and algorithm) and thus outperform the current Non-linear programming optimization method?''}
+
+
+\section{Research Approach}
+
+Based on the main goal of the thesis, the research approach can be divided into two parts containing several topics that must be addressed.
+
+(((((topics to be addressed)))))
+
+\section{Nomenclature}
+
+Row or column vectors are represented using boldface lower-case symbols such as $\textbf{x}$. Boldface and upper-case symbols, such as $\textbf{A}$, are used for matrices. Regular font, $x_1$, denotes a scalar variable.
+
+(((((edit every time needed)))))
+
