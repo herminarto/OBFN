@@ -1,0 +1,71 @@
+\beamer@endinputifotherversion {3.33pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Project Description}{3}{Project Description}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\slideentry {1}{0}{3}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{Project Overview}}\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\slideentry {1}{1}{1}{4/4}{Project Overview}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{1}{2}{5/5}{Project Overview}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{6}{Phased Array Antennas}}\headcommand {\beamer@subsectionpages {4}{5}}
+\headcommand {\slideentry {1}{2}{1}{6/6}{Phased Array Antennas}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{7}{OBFN Chip}}\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\slideentry {1}{3}{1}{7/7}{OBFN Chip}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{8}{Optical Ring Resonator (ORR)}}\headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\slideentry {1}{4}{1}{8/8}{Optical Ring Resonator (ORR)}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\sectionentry {2}{Tuning of OBFN}{9}{Tuning of OBFN}{0}}
+\headcommand {\beamer@sectionpages {3}{8}}
+\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\slideentry {2}{0}{2}{9/9}{}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{10}{Parameter to be Tuned}}\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\slideentry {2}{1}{1}{10/10}{Parameter to be Tuned}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{11}{Desired Goals of Tuning}}\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\slideentry {2}{2}{1}{11/11}{Desired Goals of Tuning}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {2}{2}{2}{12/12}{Desired Goals of Tuning}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{13}{Tuning Methods}}\headcommand {\beamer@subsectionpages {11}{12}}
+\headcommand {\slideentry {2}{3}{1}{13/13}{Tuning Methods}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {2}{3}{2}{14/14}{Tuning Methods}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {2}{3}{3}{15/15}{Tuning Methods}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {2}{3}{4}{16/16}{Tuning Methods}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{17}{Proposed Tuning Methods - Machine Learning}}\headcommand {\beamer@subsectionpages {13}{16}}
+\headcommand {\slideentry {2}{4}{1}{17/17}{Proposed Tuning Methods - Machine Learning}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\sectionentry {3}{Machine Learning Tuning Parameters}{18}{Machine Learning Tuning Parameters}{0}}
+\headcommand {\beamer@sectionpages {9}{17}}
+\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\slideentry {3}{0}{2}{18/18}{}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{19}{Cost Function}}\headcommand {\beamer@subsectionpages {18}{18}}
+\headcommand {\slideentry {3}{1}{1}{19/19}{Cost Function}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{20}{Parameter Gradients}}\headcommand {\beamer@subsectionpages {19}{19}}
+\headcommand {\slideentry {3}{2}{1}{20/20}{Parameter Gradients}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{21}{Input and Output of Neural Network}}\headcommand {\beamer@subsectionpages {20}{20}}
+\headcommand {\slideentry {3}{3}{1}{21/21}{Input and Output of Neural Network}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{22}{Dropout Regularization}}\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\slideentry {3}{4}{1}{22/22}{Dropout Regularization}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\beamer@partpages {1}{22}}
+\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\beamer@sectionpages {18}{22}}
+\headcommand {\beamer@documentpages {22}}
+\headcommand {\def \inserttotalframenumber {22}}
